@@ -4,6 +4,6 @@ Student: Ethan Ow
 
 Student ID: CT0386857
 
-Lab 1 Setting up linux and Ubuntu
+# Lab 1 Setting up linux and Ubuntu
 
 
