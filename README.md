@@ -19,6 +19,7 @@
   * Create a new repository (e.g., `BRG-27-labs`).
   * Clone the repository to your local machine using Git.
   * Add a `README.md` and start documenting each lab you complete.
+<img width="953" height="736" alt="image" src="https://github.com/user-attachments/assets/0d74716f-732b-4e9e-ac12-1856199cba59" />
 
 ---
 
